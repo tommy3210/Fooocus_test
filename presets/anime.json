@@ -1,5 +1,5 @@
 {
-    "default_model": "pony_v6.safetensors",
+    "default_model": "prefect_pony.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,7 +40,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "pony_v6.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "prefect_pony.safetensors": "https://civitai.com/api/download/models/686553?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
