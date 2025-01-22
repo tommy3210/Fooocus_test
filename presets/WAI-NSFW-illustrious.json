@@ -1,5 +1,5 @@
 {
-    "default_model": "WAI-NSFW-illustrious.safetensors",
+    "default_model": "Hassaku-illustrious.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,7 +40,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "WAI-NSFW-illustrious.safetensors": "https://civitai.com/api/download/models/1068947?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "Hassaku-illustrious.safetensors": "https://civitai.com/api/download/models/1240288?type=Model&format=SafeTensor&size=pruned&fp=bf16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
